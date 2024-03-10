@@ -1,6 +1,5 @@
 # SDK-MOVIES
-[@luiscamargom/sdk-movies](https://www.npmjs.com/package/@luiscamargom/sdk-movies)
-- Network business logic SDK in TypeScript that encapsulates the logic for fetching movie data from the API.
+- Network business logic SDK in TypeScript that encapsulates the logic for fetching movie data from the API. [@luiscamargom/sdk-movies](https://www.npmjs.com/package/@luiscamargom/sdk-movies)
 
 ## SDK MOVIES INITIATION
 
