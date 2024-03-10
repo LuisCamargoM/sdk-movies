@@ -74,7 +74,7 @@ Movies Interface
         photo_height: number;
     }
 
-Random Movies Response Interface 
+Response Interface 
     { 
         movies: Movie[];
         ok: boolean;
@@ -82,7 +82,7 @@ Random Movies Response Interface
     }
 ```
 
-### Search Movies Functio
+### Search Movies Function
 - Function: search(term:string)
 - Param: term => Search movie term that you are looking for
 - Response Structure:
